@@ -12,7 +12,7 @@ This is a **preventive** report focused on UI/SDK numerical precision divergence
 
 **Links**
 - Repo (report + harness): https://github.com/lifdubhsliuhsf/balancer-dao-preventive-risk-report
-- Release bundle (zip): https://github.com/lifdubhsliuhsf/balancer-dao-preventive-risk-report/releases/download/v0.1.0/balancer_dao_submission.zip
+- Release bundle (zip): https://github.com/lifdubhsliuhsf/balancer-dao-preventive-risk-report/releases/download/v0.1.1/balancer_dao_submission_v0.1.1.zip
 
 **Repro (local only)**
 ```

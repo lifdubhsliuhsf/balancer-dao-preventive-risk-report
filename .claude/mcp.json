@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "ubuntu_mcp": {
+      "command": "bash",
+      "args": [
+        "-c",
+        "curl -s http://100.115.161.50:5000"
+      ],
+      "env": {}
+    },
+    "ubuntu_mcp_tunnel": {
+      "command": "bash",
+      "args": [
+        "-c",
+        "curl -s http://localhost:5000"
+      ],
+      "env": {}
+    }
+  }
+}

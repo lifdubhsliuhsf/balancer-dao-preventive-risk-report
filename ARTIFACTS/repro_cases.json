@@ -1,0 +1,90 @@
+[
+  {
+    "id": "threshold_minus",
+    "raw": "0.049999999999999999",
+    "ui_number": 0.049999999999999996,
+    "ui_fixed_18": "0.049999999999999996",
+    "ui_scaled": "49999999999999996",
+    "ref_scaled": "49999999999999999",
+    "diff_wei": "3",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "threshold_plus",
+    "raw": "0.050000000000000001",
+    "ui_number": 0.05,
+    "ui_fixed_18": "0.050000000000000003",
+    "ui_scaled": "50000000000000003",
+    "ref_scaled": "50000000000000001",
+    "diff_wei": "2",
+    "diff_type": "ui_more_conservative",
+    "threshold_flip": false
+  },
+  {
+    "id": "one_bp_minus",
+    "raw": "0.009999999999999999",
+    "ui_number": 0.009999999999999998,
+    "ui_fixed_18": "0.009999999999999998",
+    "ui_scaled": "9999999999999998",
+    "ref_scaled": "9999999999999999",
+    "diff_wei": "1",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "one_bp_plus",
+    "raw": "0.010000000000000001",
+    "ui_number": 0.01,
+    "ui_fixed_18": "0.010000000000000000",
+    "ui_scaled": "10000000000000000",
+    "ref_scaled": "10000000000000001",
+    "diff_wei": "1",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "hi_precision_1",
+    "raw": "0.123456789012345678",
+    "ui_number": 0.12345678901234568,
+    "ui_fixed_18": "0.123456789012345677",
+    "ui_scaled": "123456789012345677",
+    "ref_scaled": "123456789012345678",
+    "diff_wei": "1",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "hi_precision_2",
+    "raw": "0.987654321098765432",
+    "ui_number": 0.9876543210987654,
+    "ui_fixed_18": "0.987654321098765386",
+    "ui_scaled": "987654321098765386",
+    "ref_scaled": "987654321098765432",
+    "diff_wei": "46",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "edge_1",
+    "raw": "0.333333333333333333",
+    "ui_number": 0.3333333333333333,
+    "ui_fixed_18": "0.333333333333333315",
+    "ui_scaled": "333333333333333315",
+    "ref_scaled": "333333333333333333",
+    "diff_wei": "18",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  },
+  {
+    "id": "edge_2",
+    "raw": "0.666666666666666667",
+    "ui_number": 0.6666666666666666,
+    "ui_fixed_18": "0.666666666666666630",
+    "ui_scaled": "666666666666666630",
+    "ref_scaled": "666666666666666667",
+    "diff_wei": "37",
+    "diff_type": "ui_more_optimistic",
+    "threshold_flip": false
+  }
+]

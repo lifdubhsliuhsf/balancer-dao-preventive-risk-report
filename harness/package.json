@@ -1,0 +1,16 @@
+{
+  "name": "balancer-dao-diff-harness",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "diff": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.7.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.4.5"
+  }
+}
